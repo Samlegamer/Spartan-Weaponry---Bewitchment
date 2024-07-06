@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p",
+    "i"
+  ],
+  "key": {
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotColdIron"
+    },
+    "p": {
+      "item": "spartanweaponry:material",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "spartanbewitchment:staff_cold_iron"
+  },
+  "conditions": [
+    {
+      "type": "spartanweaponry:item_exists",
+      "item": "spartanbewitchment:staff_cold_iron"
+    }
+  ]
+}

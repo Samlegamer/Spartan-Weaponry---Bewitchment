@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iii",
+    " h "
+  ],
+  "key": {
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotColdIron"
+    },
+    "h": {
+      "item": "spartanweaponry:material",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "spartanbewitchment:hammer_cold_iron"
+  },
+  "conditions": [
+    {
+      "type": "spartanweaponry:item_exists",
+      "item": "spartanbewitchment:hammer_cold_iron"
+    }
+  ]
+}

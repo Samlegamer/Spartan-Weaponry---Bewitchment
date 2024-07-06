@@ -1,0 +1,6 @@
+{
+    "parent":"spartanweaponry:item/staff",
+    "textures": {
+        "layer0":"spartanbewitchment:items/quarterstaff_cold_iron"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "hi"
+  ],
+  "key": {
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotColdIron"
+    },
+    "h": {
+      "item": "spartanweaponry:material",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "spartanbewitchment:throwing_knife_cold_iron"
+  },
+  "conditions": [
+    {
+      "type": "spartanweaponry:item_exists",
+      "item": "spartanbewitchment:throwing_knife_cold_iron"
+    }
+  ]
+}

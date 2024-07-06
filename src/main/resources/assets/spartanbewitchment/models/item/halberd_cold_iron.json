@@ -1,0 +1,6 @@
+{
+    "parent":"spartanweaponry:item/halberd_wood",
+    "textures": {
+        "layer0":"spartanbewitchment:items/halberd_cold_iron"
+    }
+}

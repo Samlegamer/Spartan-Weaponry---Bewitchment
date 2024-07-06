@@ -1,0 +1,14 @@
+{
+    "parent":"spartanweaponry:item/parrying_dagger_wood",
+    "textures": {
+        "layer0":"spartanbewitchment:items/parrying_dagger_cold_iron"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "spartanbewitchment:item/parrying_dagger_cold_iron_blocking"
+        }
+    ]
+}

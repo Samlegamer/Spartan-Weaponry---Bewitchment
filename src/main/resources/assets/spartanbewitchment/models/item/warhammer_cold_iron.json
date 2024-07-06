@@ -1,0 +1,6 @@
+{
+    "parent":"spartanweaponry:item/warhammer_wood",
+    "textures": {
+        "layer0":"spartanbewitchment:items/warhammer_cold_iron"
+    }
+}

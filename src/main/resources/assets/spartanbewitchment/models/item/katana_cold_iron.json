@@ -1,0 +1,6 @@
+{
+    "parent":"spartanweaponry:item/katana_wood",
+    "textures": {
+        "layer0":"spartanbewitchment:items/katana_cold_iron"
+    }
+}

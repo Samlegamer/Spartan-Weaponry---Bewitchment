@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i",
+    "ii",
+    "ip"
+  ],
+  "key": {
+    "i": {
+      "type": "forge:ore_dict",
+      "ore": "ingotColdIron"
+    },
+    "p": {
+      "item": "spartanweaponry:material",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "spartanbewitchment:halberd_cold_iron"
+  },
+  "conditions": [
+    {
+      "type": "spartanweaponry:item_exists",
+      "item": "spartanbewitchment:halberd_cold_iron"
+    }
+  ]
+}

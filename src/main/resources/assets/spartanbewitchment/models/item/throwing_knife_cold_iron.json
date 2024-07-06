@@ -1,0 +1,6 @@
+{
+    "parent": "spartanweaponry:item/throwing_knife_wood",
+    "textures": {
+        "layer0": "spartanbewitchment:items/throwing_knife_cold_iron"
+    }
+}
